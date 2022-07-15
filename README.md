@@ -1,5 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Nouf. 
 
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning to further my Python skills. 
 - 😄 Pronouns: she/her/hers
