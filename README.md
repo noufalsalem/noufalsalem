@@ -10,7 +10,7 @@ Recent software engineering graduate with some experience still looking to furth
 - 😄 Pronouns: she/her/hers
 - 🤩 Main skills: Java, C#, Game Development, and Web Design
 
-#### I apologize for the lack of complete repositories - I have many other projects on my older laptop that I have not put up on here (but will soon), as I had previously only used GitHub in select situations during university. That has and is changing. 
+#### I apologize for the lack of complete repositories - I have many other projects on another laptop that I have not put up on here (but will soon), as I had previously only used GitHub in select situations during university. That has and is changing. 
   #### Give me some time and I'll blow your mind!
   
 <p align="center">
