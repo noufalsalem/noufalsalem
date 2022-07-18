@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Nouf, she/her/hers. 
-#### Recent software engineering graduate with some experience still looking to further my expertise in the field.
+#### Recent software engineering graduate with some experience looking to further my expertise in the field.
 <h2 align="center">
   <samp>
   <a href="https://www.linkedin.com/in/nouf-alsalem-a3b041155/">
