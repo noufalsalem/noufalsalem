@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Nouf, she/her/hers. 
+### Hi there 👋 
 #### Recent software engineering graduate with some experience looking to further my expertise in the field.
 <h2 align="center">
   <samp>
@@ -7,7 +7,6 @@
 </h2>
 
 - 🌱 I’m currently learning to better my Python skills. 
-- 😄 Pronouns: she/her/hers
 - 🤩 Main skills: Java, C#, Game Development, and Web Design
 - ✍️ Currently working on: An open source Google Chrome extension 
 
