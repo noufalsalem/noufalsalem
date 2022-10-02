@@ -9,9 +9,6 @@
 - 🌱 I’m currently learning to better my Python skills. 
 - 🤩 Main skills: Java, C#, Game Development, and Web Design
 - ✍️ Currently working on: An open source Google Chrome extension 
-
-#### I apologize for the lack of complete repositories - I have many other projects on another laptop that I have not put up on here (but will soon), as I had previously only used GitHub in select situations during university. That has and is changing. 
-  #### Give me some time and I'll blow your mind!
   
 <p align="center">
   <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noufalsalem&theme=vue-dark&hide_langs_below=1&layout=compact" />
