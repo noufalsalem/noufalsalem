@@ -1,5 +1,4 @@
 ### Hi there 👋 
-#### Recent software engineering graduate with some experience looking to further my expertise in the field.
 <h2 align="center">
   <samp>
   <a href="https://www.linkedin.com/in/nouf-alsalem-a3b041155/">
