@@ -9,6 +9,5 @@
 - 🤩 Main skills: Java, C#, Game Development, and Frontend Development
   
 <p align="center">
-  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noufalsalem&theme=vue-dark&hide_langs_below=1&layout=compact" />
   <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api?username=noufalsalem&show_icons=true&theme=vue-dark&line_height=31" alt="Ohidur's github stats"/>
 </p>
