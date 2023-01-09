@@ -5,8 +5,8 @@
   <img  alt="Nouf's Linkdein" width="34px" src="https://blog.waalaxy.com/wp-content/uploads/2021/01/index.png" /> </a> My LinkedIn
 </h2>
 
-- 🌱 I’m currently learning to better my Frontend skills. 
-- 🤩 Main skills: Java, C#, Game Development, and Web Design
+- 🌱 I’m currently pursuing my path in Frontend development.
+- 🤩 Main skills: Java, C#, Game Development, and Frontend Development
   
 <p align="center">
   <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noufalsalem&theme=vue-dark&hide_langs_below=1&layout=compact" />
